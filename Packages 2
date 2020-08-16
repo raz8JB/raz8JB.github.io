@@ -24,5 +24,14 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://supermamon.github.io/Raz8JB/depictions/?p=com.Raz8JB.oldpackage
 
+package: com.raz8.localiapstore
+name: localiapstore ios 13
+version: 1.4-4
+architecture: iphoneos-arm
+description: pwns in-app purchases on ios 7 and 8. compatible with armv8 (64 bit). enable in settings. press 'dismiss' on popup!
+depiction: http://www.Github.com/repo/Raz8JB/pack/localiapstore
+author: pangu
+section: tweaks
+depends: firmware (>= 7.0), mobilesubstrate, preferenceloader

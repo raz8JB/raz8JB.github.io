@@ -26,3 +26,12 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+ackage: com.Raz8JB.localiapstore
+Name: LocalIAPStore 13Raz
+Version: 1.4-4
+Architecture: iphoneos-arm
+Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
+Depiction: http://www.yourepo.com/repo/speedmx/pack/localiapstore
+Author: Pangu
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
